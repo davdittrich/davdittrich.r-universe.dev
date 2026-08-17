@@ -1,4 +1,5 @@
 [
   { "package": "catboostr", "url": "https://github.com/davdittrich/catboostr" },
-  { "package": "robscale", "url": "https://github.com/davdittrich/robscale" }
+  { "package": "robscale", "url": "https://github.com/davdittrich/robscale" },
+  { "package": "leafblower", "url": "https://github.com/davdittrich/leafblower" }
 ]
